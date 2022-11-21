@@ -1,0 +1,181 @@
+﻿  Buildable2.cpp
+  BuildParts2.cpp
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Player.h(11,17): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\BuildParts2.cpp(15,30): warning C4305: 'argument': truncation from 'double' to 'float'
+  Collision.cpp
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Collision.cpp(82,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Collision.cpp(83,16): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Collision.cpp(85,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Collision.cpp(85,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Collision.cpp(86,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Collision.cpp(86,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Collision.cpp(149,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Collision.cpp(150,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Collision.cpp(150,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Collision.cpp(151,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Enemy.cpp
+  EnemyRanger.cpp
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Player.h(11,17): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  Factory.cpp
+  Game.cpp
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Player.h(11,17): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\ParticleSystem.h(13,116): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\ParticleSystem.h(13,81): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Game.cpp(23,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Game.cpp(50,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Game.cpp(85,32): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Game.cpp(99,29): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Game.cpp(102,53): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Game.cpp(107,28): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Game.cpp(112,32): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Game.cpp(116,31): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Game.cpp(233,16): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=double
+          ]
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Game.cpp(251,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Game.cpp(575,31): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Game.cpp(577,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Game.cpp(1625,23): warning C4305: '*=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Game.cpp(1631,23): warning C4305: '*=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Game.cpp(1637,23): warning C4305: '*=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Game.cpp(1643,23): warning C4305: '*=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Game.cpp(1680,22): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Game.cpp(1699,59): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Game.cpp(1699,42): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Buildable1.cpp
+  Grid.cpp
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Player.h(11,17): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Grid.cpp(123,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Grid.cpp(193,22): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Grid.cpp(203,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Grid.cpp(217,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Grid.cpp(231,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Grid.cpp(246,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Grid.cpp(259,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Grid.cpp(471,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Grid.cpp(479,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Grid.cpp(481,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Grid.cpp(515,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Grid.cpp(521,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Grid.cpp(561,20): warning C4018: '<': signed/unsigned mismatch
+  House.cpp
+  main.cpp
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Player.h(11,17): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\ParticleSystem.h(13,116): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\ParticleSystem.h(13,81): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  MainMenu.cpp
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Player.h(11,17): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\MainMenu.cpp(52,27): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  MapLevel.cpp
+  ObjectivesHud.cpp
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Player.h(11,17): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\ObjectivesHud.cpp(29,33): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\ObjectivesHud.cpp(30,33): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\ObjectivesHud.cpp(31,35): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\ObjectivesHud.cpp(32,34): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  BuildParts1.cpp
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Player.h(11,17): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\BuildParts1.cpp(15,30): warning C4305: 'argument': truncation from 'double' to 'float'
+  Player.cpp
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Player.h(11,17): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Player.cpp(56,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Player.cpp(87,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Projectile.cpp
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Player.h(11,17): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  Puddle.cpp
+  Rubbish.cpp
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Rubbish.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Settings.cpp
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Settings.cpp(16,29): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\CubeTowerJUmp\Settings.cpp(21,29): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Generating Code...
+  Compiling...
+  Wall.cpp
+  Generating Code...
+  CubeTowerJUmp.vcxproj -> C:\Users\DJay Gaming\Desktop\newwww\3rdYearFinalProject\Debug\Vacuume.exe

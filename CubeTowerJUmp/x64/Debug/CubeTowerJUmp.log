@@ -1,0 +1,72 @@
+﻿  Game.cpp
+E:\3yrPrj\project21-dawid-and-filip\CubeTowerJUmp\Player.h(11,17): warning C4305: 'initializing': truncation from 'double' to 'const float'
+E:\3yrPrj\project21-dawid-and-filip\CubeTowerJUmp\ParticleSystem.h(13,116): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\3yrPrj\project21-dawid-and-filip\CubeTowerJUmp\ParticleSystem.h(13,81): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\3yrPrj\project21-dawid-and-filip\CubeTowerJUmp\Game.cpp(23,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\3yrPrj\project21-dawid-and-filip\CubeTowerJUmp\Game.cpp(50,37): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\3yrPrj\project21-dawid-and-filip\CubeTowerJUmp\Game.cpp(85,32): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+E:\3yrPrj\project21-dawid-and-filip\CubeTowerJUmp\Game.cpp(99,29): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+E:\3yrPrj\project21-dawid-and-filip\CubeTowerJUmp\Game.cpp(102,53): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+E:\3yrPrj\project21-dawid-and-filip\CubeTowerJUmp\Game.cpp(107,28): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+E:\3yrPrj\project21-dawid-and-filip\CubeTowerJUmp\Game.cpp(112,32): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+E:\3yrPrj\project21-dawid-and-filip\CubeTowerJUmp\Game.cpp(116,31): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+E:\3yrPrj\project21-dawid-and-filip\CubeTowerJUmp\Game.cpp(233,16): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=double
+          ]
+E:\3yrPrj\project21-dawid-and-filip\CubeTowerJUmp\Game.cpp(251,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\3yrPrj\project21-dawid-and-filip\CubeTowerJUmp\Game.cpp(575,31): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+E:\3yrPrj\project21-dawid-and-filip\CubeTowerJUmp\Game.cpp(577,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\3yrPrj\project21-dawid-and-filip\CubeTowerJUmp\Game.cpp(1559,23): warning C4305: '*=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\3yrPrj\project21-dawid-and-filip\CubeTowerJUmp\Game.cpp(1565,23): warning C4305: '*=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\3yrPrj\project21-dawid-and-filip\CubeTowerJUmp\Game.cpp(1571,23): warning C4305: '*=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\3yrPrj\project21-dawid-and-filip\CubeTowerJUmp\Game.cpp(1577,23): warning C4305: '*=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\3yrPrj\project21-dawid-and-filip\CubeTowerJUmp\Game.cpp(1614,22): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\3yrPrj\project21-dawid-and-filip\CubeTowerJUmp\Game.cpp(1633,59): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\3yrPrj\project21-dawid-and-filip\CubeTowerJUmp\Game.cpp(1633,42): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  CubeTowerJUmp.vcxproj -> E:\3yrPrj\project21-dawid-and-filip\x64\Debug\Vacuume.exe

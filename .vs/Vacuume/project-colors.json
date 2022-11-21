@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d19c71c1-8c23-4ec6-92d3-e8e65c25ad31": {
+      "ProjectGuid": "d19c71c1-8c23-4ec6-92d3-e8e65c25ad31",
+      "DisplayName": "Vacuume",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
